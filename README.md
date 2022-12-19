@@ -1,10 +1,8 @@
 <h1 align="center"> 
   Welcome to my profile page!
 
-  [TH](https://telehack.com/u/zcj)
   <p> </p>
-  
-  
+    
 <h2>🔥 Streak Stats</h2> <p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=25zcj01&theme=dracula" alt="ryihan" />
 </p> 
 <h2>📊 Stats</h2> <p align="center"> <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=25zcj01&theme=redical&hide_border=true" 
