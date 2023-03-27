@@ -1,5 +1,4 @@
 ![Samurai](https://telehack.com/samurai.svg)
-![Samurai](https://telehack.com/katakana.svg)
 ![TeleBASIC](https://telehack.com/telebasic.svg)
 ![Telehack](https://telehack.com/telehack.svg)
 ![CLI](https://telehack.com/cmd.svg)
